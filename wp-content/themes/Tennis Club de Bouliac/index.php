@@ -15,7 +15,5 @@
 	</main>
 
 <?php get_sidebar(); ?>
-<div class="push">
-	<p>i am pushing</p>
-</div>ds
+
 <?php get_footer(); ?>
